@@ -1,0 +1,56 @@
+Operative 6 has arrived at typewriting station TS3 at time 3
+Operative 12 has arrived at typewriting station TS1 at time 3
+Operative 5 has arrived at typewriting station TS2 at time 4
+Operative 7 has arrived at typewriting station TS4 at time 4
+Intelligence Staff 2 began reviewing logbook at time 4. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 5. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 10. Operations completed = 0
+Operative 6 has completed document recreation at time 13
+Operative 12 has completed document recreation at time 13
+Operative 14 has arrived at typewriting station TS3 at time 13
+Operative 8 has arrived at typewriting station TS1 at time 13
+Intelligence Staff 2 began reviewing logbook at time 13. Operations completed = 0
+Operative 5 has completed document recreation at time 14
+Operative 7 has completed document recreation at time 14
+Operative 9 has arrived at typewriting station TS2 at time 14
+Operative 3 has arrived at typewriting station TS4 at time 14
+Intelligence Staff 2 began reviewing logbook at time 17. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 17. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 19. Operations completed = 0
+Operative 14 has completed document recreation at time 23
+Operative 8 has completed document recreation at time 23
+Operative 2 has arrived at typewriting station TS3 at time 23
+Operative 4 has arrived at typewriting station TS1 at time 23
+Intelligence Staff 1 began reviewing logbook at time 23. Operations completed = 0
+Operative 9 has completed document recreation at time 24
+Operative 3 has completed document recreation at time 24
+Operative 13 has arrived at typewriting station TS2 at time 24
+Operative 15 has arrived at typewriting station TS4 at time 24
+Intelligence Staff 2 began reviewing logbook at time 26. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 26. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 29. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 30. Operations completed = 0
+Operative 2 has completed document recreation at time 33
+Operative 4 has completed document recreation at time 33
+Operative 10 has arrived at typewriting station TS3 at time 33
+Operative 13 has completed document recreation at time 34
+Operative 1 has arrived at typewriting station TS2 at time 34
+Operative 15 has completed document recreation at time 34
+Operative 11 has arrived at typewriting station TS4 at time 34
+Intelligence Staff 1 began reviewing logbook at time 34. Operations completed = 0
+Intelligence Staff 2 began reviewing logbook at time 35. Operations completed = 0
+Intelligence Staff 2 began reviewing logbook at time 37. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 39. Operations completed = 0
+Intelligence Staff 1 began reviewing logbook at time 41. Operations completed = 0
+Operative 10 has completed document recreation at time 43
+Unit 2 has completed document recreation phase at time 43
+Operative 1 has completed document recreation at time 44
+Unit 1 has completed document recreation phase at time 44
+Operative 11 has completed document recreation at time 44
+Unit 3 has completed document recreation phase at time 44
+Unit 2 has completed intelligence distribution at time 46
+Intelligence Staff 1 began reviewing logbook at time 46. Operations completed = 1
+Intelligence Staff 2 began reviewing logbook at time 46. Operations completed = 1
+Unit 1 has completed intelligence distribution at time 50
+Unit 3 has completed intelligence distribution at time 53
+Intelligence Staff 2 began reviewing logbook at time 53. Operations completed = 3
